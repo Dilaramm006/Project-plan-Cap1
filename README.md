@@ -6,13 +6,13 @@
 
 2. **Team Information**
 
-**Team Name:** Mamur_Team
+**Team Name:** DRM
 
-**Team Members (Name / Role):**
-
-- **Team Leader:** Baxtiyorova Ruxshona  
-- **Team Member:** Ergasheva Madinabonu  
-- **Team Member:** Usenadinova Dilaram  
+| Name | Student ID | Group | Role |
+|------|------------|--------|------|
+| Baxtiyorova Ruxshona | 202490081 | I24A | Leader |
+| Usenadinova Dilaram | 202490349 | I24E-1 | System  Designer |
+| Ergasheva Madinabonu | 202490107 | I24B | System Analyst | 
 
 ---
 
